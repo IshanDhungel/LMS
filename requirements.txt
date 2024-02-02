@@ -1,0 +1,7 @@
+asgiref==3.2.7
+Django==3.0.5
+django-extensions==3.2.3
+django-widget-tweaks==1.4.8
+Jinja2==2.10.1
+pytz==2020.1
+sqlparse==0.3.1
